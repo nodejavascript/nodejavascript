@@ -11,18 +11,45 @@ Hamilton, Ontario, Canada
 
 **I build AI systems that run on the machine in front of you, not on somebody else's server — and I ship them in public, where you can click them right now.**
 
-You should not have to take a résumé's word for anything. Every project below is live, free, and takes about thirty seconds to try. The screenshots are the pages themselves — click one and you are there. The code, and the tests that keep the claims honest, are in the repositories.
+You should not have to take a résumé's word for anything. Everything below is live, free, and about thirty seconds from being understood. The screenshots are the pages themselves — click one and you are there. The sections are the same ones my index uses, and [nodejavascript.com](https://nodejavascript.com/) lists all of it.
 
-## Try the work
+## Artificial intelligence & machine learning
 
-| Project | What it proves | The page, right now |
-|---|---|---|
-| **llm-demo** | A GPT written from scratch — tokenizer, self-attention, hand-derived backpropagation, AdamW — trained in the visitor's browser in a Web Worker. Nothing typed leaves the page. | [<img src="shots/llm-demo.jpg" width="280" alt="llm-demo — train a language model in your browser">](https://llm-demo.nodejavascript.com/) |
-| **rag-demo** | Paste a document, ask it questions. Every answer quotes the passage it rests on, says plainly what the document does *not* say, and shows where it disagrees with itself. | [<img src="shots/rag-demo.jpg" width="280" alt="rag-demo — ask a document, and be told what it leaves out">](https://rag-demo.nodejavascript.com/) |
-| **vision-ml-demo** | A small convolutional network taught one picture at a time — hand-written forward and backward passes, a Viola-Jones face detector, no server involved. | [<img src="shots/vision-ml-demo.jpg" width="280" alt="vision-ml-demo — teach a vision model in the browser">](https://vision-ml-demo.nodejavascript.com/) |
-| **airplane-watch** | Name a place or an airport, watch the aircraft around it live, and be told the moment a watched one is airborne. | [<img src="shots/airplane-watch.jpg" width="280" alt="airplane-watch — watch a named aircraft leave a named airport">](https://airplane-watch.nodejavascript.com/) |
-| **hominin-atlas** | Every hominin on one map, where each was found and when — every date and figure carrying the paper it came from. | [<img src="shots/hominin-atlas.jpg" width="280" alt="hominin-atlas — every hominin on one map">](https://hominin-atlas.nodejavascript.com/) |
-| **recallradar** | Every recall notice Health Canada publishes — a page per product, a page per category, with search on every page. | [<img src="shots/recallradar.jpg" width="280" alt="recallradar — every Health Canada recall notice">](https://recallradar.nodejavascript.com/) |
+| | |
+|---|---|
+| [<img src="shots/llm-demo.jpg" width="260" alt="LLM demo — a GPT trained in your browser">](https://llm-demo.nodejavascript.com/) | **[llm-demo.nodejavascript.com](https://llm-demo.nodejavascript.com/)**<br>A small GPT written from scratch in TypeScript and trained in your own browser — tokenizer, self-attention, hand-derived backpropagation, AdamW. Nothing you type leaves the page. |
+| [<img src="shots/rag-demo.jpg" width="260" alt="RAG demo — ask a document, and be told what it leaves out">](https://rag-demo.nodejavascript.com/) | **[rag-demo.nodejavascript.com](https://rag-demo.nodejavascript.com/)**<br>Paste an article, a diary, a résumé or a set of terms, then ask it questions. Every answer quotes the document — and says plainly what the document does *not* say. |
+| [<img src="shots/vision-ml-demo.jpg" width="260" alt="Vision ML demo — teach a vision model in the browser">](https://vision-ml-demo.nodejavascript.com/) | **[vision-ml-demo.nodejavascript.com](https://vision-ml-demo.nodejavascript.com/)**<br>Show it a picture, name what is in it, and watch a small vision model learn the things you name — on your own machine, with hand-written forward and backward passes and no server involved. |
+
+## Maps
+
+| | |
+|---|---|
+| [<img src="shots/airplane-watch.jpg" width="260" alt="Airplane Watch — watch a named aircraft leave a named airport">](https://airplane-watch.nodejavascript.com/) | **[airplane-watch.nodejavascript.com](https://airplane-watch.nodejavascript.com/)**<br>Name a place or an airport, and watch the aircraft in the air around it — told the moment a watched one is airborne, and told honestly when the feed cannot hear one. |
+| [<img src="shots/hominin-atlas.jpg" width="260" alt="Hominin Atlas — every hominin on one map">](https://hominin-atlas.nodejavascript.com/) | **[hominin-atlas.nodejavascript.com](https://hominin-atlas.nodejavascript.com/)**<br>Every hominin on one map: where each was found, when it lived, and how much of the genome moved between them — every date and figure carrying the paper it came from. |
+
+## Public records
+
+| | |
+|---|---|
+| [<img src="shots/recallradar.jpg" width="260" alt="Recall Radar — every Health Canada recall notice">](https://recallradar.nodejavascript.com/) | **[recallradar.nodejavascript.com](https://recallradar.nodejavascript.com/)**<br>A recall is a fact a government already publishes. This puts it where you can search it — by brand, by category, by the month it was issued — with the notice itself linked. |
+| [<img src="shots/kitchen-file.jpg" width="260" alt="Kitchen File — Toronto food-premises inspections">](https://kitchen-file.nodejavascript.com/) | **[kitchen-file.nodejavascript.com](https://kitchen-file.nodejavascript.com/)**<br>What the inspector actually wrote, for every food premises in Toronto: the pass, the conditional pass, the closure, and the infringements on the report. |
+| [<img src="shots/company-file.jpg" width="260" alt="Company File — every federal corporation">](https://company-file.nodejavascript.com/) | **[company-file.nodejavascript.com](https://company-file.nodejavascript.com/)**<br>Before you contract with a company, check that it exists. Every federal corporation Corporations Canada holds — 695,698 of them — with its status and its history, searchable. |
+
+**…and seven more** — *Before You Sign* (RentSafeTO building evaluations), *Safe to Eat* (Ontario fish advisories), *Campus Record*, *Work File*, *What It Costs*, *Pay File* and *Pop File*. Each one is a page per row of a government table, with the source linked on every page, and the whole set is indexed at **[nodejavascript.com](https://nodejavascript.com/)**.
+
+## Games & tools
+
+| | |
+|---|---|
+| [<img src="shots/sudoku-ml.jpg" width="260" alt="Sudoku ML — six difficulties, played in the browser">](https://sudoku-ml.nodejavascript.com/) | **[sudoku-ml.nodejavascript.com](https://sudoku-ml.nodejavascript.com/)**<br>Six difficulties of Sudoku, played in your browser — your games and your mistakes are saved as you play, and a model reads them. |
+| [<img src="shots/word-cloud.jpg" width="260" alt="Word cloud — turn any text into a word cloud">](https://word-cloud.nodejavascript.com/) | **[word-cloud.nodejavascript.com](https://word-cloud.nodejavascript.com/)**<br>Turn any text into a word cloud in seconds. |
+
+**Plus** *card-sharks*, *password-please*, *moon-lander* and *lottery-odds* — small games built to answer one question each — and two older sites kept alive on purpose: **[antitomato.com](https://antitomato.com/)** and **[gord100.nodejavascript.com](https://gord100.nodejavascript.com/)**.
+
+## Server-side apps
+
+Not everything is a page. The estate behind these runs on my own equipment and on free tiers: an **MQTT broker** written over Aedes with LevelDB persistence and username/password authentication, the MQTT family around it (a broker that keeps its output minimal in Docker, a bridge that turns MQTT topics into MongoDB documents, ESP8266 sensors publishing to it), a **private search layer**, and the document and optical-character-recognition pipelines that index large archives. The code is in the [38 public repositories](https://github.com/nodejavascript?tab=repositories).
 
 ## What I do
 
@@ -54,9 +81,3 @@ TypeScript · Node.js · React · Next.js · Go · GraphQL · REST · WebSockets
 ## Open to
 
 Senior and staff full-stack and AI engineering roles — remote, or hybrid within about an hour of Hamilton. Full-time or contract.
-
-## Elsewhere
-
-- **[nodejavascript.com](https://nodejavascript.com/)** — every project on this page, indexed in one place
-- **[datavisionstudios.com](https://datavisionstudios.com/)** — the consultancy, which has run alongside full-time roles since 2000 and continues to; the client owns the code, the data and the accounts
-- **38 public repositories** — the code behind every claim on this page

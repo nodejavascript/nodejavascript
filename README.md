@@ -1,9 +1,11 @@
 # George Fielder
 
-**Senior Full-Stack & AI Engineer** — TypeScript · Node.js · React · Next.js · GraphQL · agentic AI
+**Senior Full-Stack & AI Engineer** — 25 years building web and database systems, the last decade in TypeScript, Node.js, React, Next.js and AI
 Hamilton, Ontario, Canada
 
 [georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [datavisionstudios.com](https://datavisionstudios.com) · [nodejavascript.com](https://nodejavascript.com)
+
+**Available now** — remote from Ontario, Canada (Eastern time), or hybrid within about an hour of Hamilton.
 
 ---
 
@@ -30,9 +32,16 @@ You should not have to take a résumé's word for anything. Every project below 
 
 **Measured, not asserted.** Three kinds of test on every project — unit, end-to-end against a real browser, and against the deployed host — because a claim that is not measured is a claim. Zero runtime dependencies wherever a dependency is not earning its place. Free tiers only, self-hosted where a free tier cannot do the job.
 
+## How I work with a team
+
+- **Led and delivered with a team** at IOU Concepts — hired, then built a test-driven GraphQL API and React application with them.
+- **Trained a team through its Node.js transition** at LabX Media Group, and managed overseas developers through delivery at Conversion Media Group.
+- **Ran the production estate** at Utherverse Digital — Docker, bare-metal hosts and PM2-managed services — and the observability that made it visible.
+- **Reviewed the diff, not the summary**, and left every repository readable by whoever picks it up next.
+
 ## Selected results
 
-- A GraphQL and React platform for the **Illinois State Board of Education** serving **more than 1 million students, parents and faculty** (IOU Concepts / Xocial).
+- A GraphQL and React platform built for the **Illinois State Board of Education**, used by students, parents and faculty across the state (IOU Concepts / Xocial).
 - A real-time lead generation engine producing **$3 million in monthly revenue**, and the ETL workflows behind it (Zeta Global).
 - **Three RESTful API gateways processing 10 million records a month** on a federated GraphQL platform (Conversion Media Group).
 - A patient management and laser-surgery scheduling database grown from **one clinic to about 76 clinics across four countries**, holding **600,000+ appointment records** (ICON Laser Eye Centers).
@@ -49,5 +58,5 @@ Senior and staff full-stack and AI engineering roles — remote, or hybrid withi
 ## Elsewhere
 
 - **[nodejavascript.com](https://nodejavascript.com/)** — every project on this page, indexed in one place
-- **[datavisionstudios.com](https://datavisionstudios.com/)** — the consultancy, where the agentic platform above is client work; the client owns the code, the data and the accounts
+- **[datavisionstudios.com](https://datavisionstudios.com/)** — the consultancy, which has run alongside full-time roles since 2000 and continues to; the client owns the code, the data and the accounts
 - **38 public repositories** — the code behind every claim on this page

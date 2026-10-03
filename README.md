@@ -11,18 +11,18 @@ Hamilton, Ontario, Canada
 
 **I build AI systems that run on the machine in front of you, not on somebody else's server — and I ship them in public, where you can click them right now.**
 
-You should not have to take a résumé's word for anything. Every project below is live, free, and takes about thirty seconds to try. The code, and the tests that keep the claims honest, are in the repositories.
+You should not have to take a résumé's word for anything. Every project below is live, free, and takes about thirty seconds to try. The screenshots are the pages themselves — click one and you are there. The code, and the tests that keep the claims honest, are in the repositories.
 
 ## Try the work
 
-| Project | What it proves | Live |
+| Project | What it proves | The page, right now |
 |---|---|---|
-| **llm-demo** | A GPT written from scratch — tokenizer, self-attention, hand-derived backpropagation, AdamW — trained in the visitor's browser in a Web Worker. Nothing typed leaves the page. | [llm-demo.nodejavascript.com](https://llm-demo.nodejavascript.com/) |
-| **rag-demo** | Paste a document, ask it questions. Every answer quotes the passage it rests on, says plainly what the document does *not* say, and shows where it disagrees with itself. | [rag-demo.nodejavascript.com](https://rag-demo.nodejavascript.com/) |
-| **vision-ml-demo** | A small convolutional network taught one picture at a time — hand-written forward and backward passes, a Viola-Jones face detector, no server involved. | [vision-ml-demo.nodejavascript.com](https://vision-ml-demo.nodejavascript.com/) |
-| **airplane-watch** | Name a place or an airport, watch the aircraft around it live, and be told the moment a watched one is airborne. | [airplane-watch.nodejavascript.com](https://airplane-watch.nodejavascript.com/) |
-| **hominin-atlas** | Every hominin on one map, where each was found and when — every date and figure carrying the paper it came from. | [hominin-atlas.nodejavascript.com](https://hominin-atlas.nodejavascript.com/) |
-| **recallradar** | Every recall notice Health Canada publishes — a page per product, a page per category, with search on every page. | [recallradar.nodejavascript.com](https://recallradar.nodejavascript.com/) |
+| **llm-demo** | A GPT written from scratch — tokenizer, self-attention, hand-derived backpropagation, AdamW — trained in the visitor's browser in a Web Worker. Nothing typed leaves the page. | [<img src="shots/llm-demo.jpg" width="280" alt="llm-demo — train a language model in your browser">](https://llm-demo.nodejavascript.com/) |
+| **rag-demo** | Paste a document, ask it questions. Every answer quotes the passage it rests on, says plainly what the document does *not* say, and shows where it disagrees with itself. | [<img src="shots/rag-demo.jpg" width="280" alt="rag-demo — ask a document, and be told what it leaves out">](https://rag-demo.nodejavascript.com/) |
+| **vision-ml-demo** | A small convolutional network taught one picture at a time — hand-written forward and backward passes, a Viola-Jones face detector, no server involved. | [<img src="shots/vision-ml-demo.jpg" width="280" alt="vision-ml-demo — teach a vision model in the browser">](https://vision-ml-demo.nodejavascript.com/) |
+| **airplane-watch** | Name a place or an airport, watch the aircraft around it live, and be told the moment a watched one is airborne. | [<img src="shots/airplane-watch.jpg" width="280" alt="airplane-watch — watch a named aircraft leave a named airport">](https://airplane-watch.nodejavascript.com/) |
+| **hominin-atlas** | Every hominin on one map, where each was found and when — every date and figure carrying the paper it came from. | [<img src="shots/hominin-atlas.jpg" width="280" alt="hominin-atlas — every hominin on one map">](https://hominin-atlas.nodejavascript.com/) |
+| **recallradar** | Every recall notice Health Canada publishes — a page per product, a page per category, with search on every page. | [<img src="shots/recallradar.jpg" width="280" alt="recallradar — every Health Canada recall notice">](https://recallradar.nodejavascript.com/) |
 
 ## What I do
 

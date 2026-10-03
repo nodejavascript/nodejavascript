@@ -1,26 +1,53 @@
-### The record should be readable by the person it is about — and the work should stay with the reader.
+# George Fielder
 
-Everything here is built to that one sentence.
+**Senior Full-Stack & AI Engineer** — TypeScript · Node.js · React · Next.js · GraphQL · agentic AI
+Hamilton, Ontario, Canada
 
-**Public records, published properly.** Ten sites, 67,000 pages, every figure traceable to the government table it came from, and every page linking the row it came from. They are copies of official records and they say so — *the record, never a verdict*. Search works on every page, not just the front one.
+[georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [datavisionstudios.com](https://datavisionstudios.com) · [nodejavascript.com](https://nodejavascript.com)
 
-**Models that run where you are.** A GPT trained in your own browser. A vision model that reads your image on your machine. Retrieval that answers from your document and tells you what it does *not* say. Nothing is uploaded to answer a question.
+---
 
-**Nothing is measured unless you say yes.** No analytics cookie, no tag, no request to Google until you accept one — and the owner's own network never receives the loader at all.
+**I build AI systems that run on the machine in front of you, not on somebody else's server — and I ship them in public, where you can click them right now.**
 
-### What is live
+You should not have to take a résumé's word for anything. Every project below is live, free, and takes about thirty seconds to try. The code, and the tests that keep the claims honest, are in the repositories.
 
-| | |
-|---|---|
-| **[record-sites](https://github.com/nodejavascript/record-sites)** | ten public-record sites from openly licensed government data — one engine, one room per dataset · [recallradar](https://recallradar.nodejavascript.com/) · [kitchen-file](https://kitchen-file.nodejavascript.com/) · [company-file](https://company-file.nodejavascript.com/) |
-| **[llm-demo](https://github.com/nodejavascript/llm-demo)** | a small GPT written from scratch in TypeScript and trained in the visitor's browser — [live](https://llm-demo.nodejavascript.com/) |
-| **[rag-demo](https://github.com/nodejavascript/rag-demo)** | paste a document, ask it questions, and be told what the document does not say — [live](https://rag-demo.nodejavascript.com/) |
-| **[vision-ml-demo](https://github.com/nodejavascript/vision-ml-demo)** | a small vision model reading an image, entirely on the machine in front of it — [live](https://vision-ml-demo.nodejavascript.com/) |
-| **[airplane-watch](https://github.com/nodejavascript/airplane-watch)** | watch a named aircraft leave a named airport, and be told when it does — [live](https://airplane-watch.nodejavascript.com/) |
-| **[mqtt-broker-aedes](https://github.com/nodejavascript/mqtt-broker-aedes)** | the broker, and the MQTT family around it |
+## Try the work
 
-### How it is built
+| Project | What it proves | Live |
+|---|---|---|
+| **llm-demo** | A GPT written from scratch — tokenizer, self-attention, hand-derived backpropagation, AdamW — trained in the visitor's browser in a Web Worker. Nothing typed leaves the page. | [llm-demo.nodejavascript.com](https://llm-demo.nodejavascript.com/) |
+| **rag-demo** | Paste a document, ask it questions. Every answer quotes the passage it rests on, says plainly what the document does *not* say, and shows where it disagrees with itself. | [rag-demo.nodejavascript.com](https://rag-demo.nodejavascript.com/) |
+| **vision-ml-demo** | A small convolutional network taught one picture at a time — hand-written forward and backward passes, a Viola-Jones face detector, no server involved. | [vision-ml-demo.nodejavascript.com](https://vision-ml-demo.nodejavascript.com/) |
+| **airplane-watch** | Name a place or an airport, watch the aircraft around it live, and be told the moment a watched one is airborne. | [airplane-watch.nodejavascript.com](https://airplane-watch.nodejavascript.com/) |
+| **hominin-atlas** | Every hominin on one map, where each was found and when — every date and figure carrying the paper it came from. | [hominin-atlas.nodejavascript.com](https://hominin-atlas.nodejavascript.com/) |
+| **recallradar** | Every recall notice Health Canada publishes — a page per product, a page per category, with search on every page. | [recallradar.nodejavascript.com](https://recallradar.nodejavascript.com/) |
 
-Zero runtime dependencies where a dependency is not earning its place. Static pages with a `no-store` shell, so a deploy is visible the moment it lands. Free tiers only, and self-hosted where a free tier cannot do the job. Tests in three kinds — unit, end-to-end against a real browser, and against the deployed host — because a claim that is not measured is a claim.
+## What I do
 
-**[nodejavascript.com](https://nodejavascript.com/)** is the index of all of it.
+**Agentic AI, in production.** I write Model Context Protocol servers — stdio and streamable HTTP — that connect models to real tools and real data: Google Workspace, Cloudflare, GitHub and GitLab CI, databases, payments, fax, legal research. They run under a Visual Studio Code agent workspace of 33 custom agent modes and 13 skills, with an automation agent that has host-filesystem access, persistent browser control, local model inference and vector memory in Qdrant. On top of that: retrieval and embeddings, document and optical-character-recognition pipelines, grounded answers with citations, real-time voice pipelines, tool calling, prompt-injection defence, and consent-gated verification that fails closed.
+
+**Full-stack at scale.** Twenty-five years of web and database systems, the last decade in TypeScript, Node.js, React, Next.js and GraphQL over PostgreSQL, MongoDB, Redis and Microsoft SQL Server — on Amazon Web Services, Google Cloud and Azure, delivered through CI/CD, with observability that means something (OpenTelemetry, Prometheus, Grafana, Loki) and zero-trust security (OAuth2, JWT, SSO).
+
+**Measured, not asserted.** Three kinds of test on every project — unit, end-to-end against a real browser, and against the deployed host — because a claim that is not measured is a claim. Zero runtime dependencies wherever a dependency is not earning its place. Free tiers only, self-hosted where a free tier cannot do the job.
+
+## Selected results
+
+- A GraphQL and React platform for the **Illinois State Board of Education** serving **more than 1 million students, parents and faculty** (IOU Concepts / Xocial).
+- A real-time lead generation engine producing **$3 million in monthly revenue**, and the ETL workflows behind it (Zeta Global).
+- **Three RESTful API gateways processing 10 million records a month** on a federated GraphQL platform (Conversion Media Group).
+- A patient management and laser-surgery scheduling database grown from **one clinic to about 76 clinics across four countries**, holding **600,000+ appointment records** (ICON Laser Eye Centers).
+- Node.js applications serving **more than 2 million buy-and-sell users** (LabX Media Group).
+
+## Stack
+
+TypeScript · Node.js · React · Next.js · Go · GraphQL · REST · WebSockets · Express · PostgreSQL · MongoDB · Redis · MySQL · Microsoft SQL Server · Qdrant · Meilisearch · Amazon Web Services · Google Cloud · Azure · Docker · Cloudflare · OpenTelemetry · Prometheus · Grafana
+
+## Open to
+
+Senior and staff full-stack and AI engineering roles — remote, or hybrid within about an hour of Hamilton. Full-time or contract.
+
+## Elsewhere
+
+- **[nodejavascript.com](https://nodejavascript.com/)** — every project on this page, indexed in one place
+- **[datavisionstudios.com](https://datavisionstudios.com/)** — the consultancy, where the agentic platform above is client work; the client owns the code, the data and the accounts
+- **38 public repositories** — the code behind every claim on this page

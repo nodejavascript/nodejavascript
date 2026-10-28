@@ -2,16 +2,6 @@
 
 [georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [nodejavascript.com](https://nodejavascript.com) · [datavisionstudios.com](https://datavisionstudios.com)
 
----
-
-**Software should be handed over, not rented.** I build systems that run, publish their own source, and tell you plainly what they cannot do.
-
-Thirty-two of them are pages you can open right now, plus one server you can read, all from [nodejavascript.com](https://nodejavascript.com/): **0 accounts, 0 prices**, and the cookie question is the only thing on the site that asks you anything. Every picture below is the deployed page itself, captured from the live host — click one and you are there.
-
-**The apps** — [Watch it learn](#watch-it-learn) 8 · [Play & tinker](#play--tinker) 6 · [Places & stories](#places--stories) 6 · [Check a record](#check-a-record) 10 · [Under the hood](#under-the-hood) 3
-
-**What I can do** — [What I do](#what-i-do) · [Selected results](#selected-results) · [How I work with a team](#how-i-work-with-a-team) · [Skills](#skills) · [Open to](#open-to)
-
 
 ## Watch it learn
 

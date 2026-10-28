@@ -1,5 +1,3 @@
-# George Fielder
-
 **Senior Full-Stack & AI Engineer** — 25 years building web and database systems, the last decade in TypeScript, Node.js, React, Next.js and AI
 Hamilton, Ontario, Canada
 

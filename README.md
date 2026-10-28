@@ -12,9 +12,9 @@ Hamilton, Ontario, Canada
 
 Thirty-two of them are pages you can open right now, plus one server you can read, all from [nodejavascript.com](https://nodejavascript.com/): **0 accounts, 0 prices**, and the cookie question is the only thing on the site that asks you anything. Every picture below is the deployed page itself, captured from the live host — click one and you are there.
 
-You should not have to take a résumé's word for anything. Where an app cannot do something, its own page says so.
+**The apps** — [Watch it learn](#watch-it-learn) 8 · [Play & tinker](#play--tinker) 6 · [Places & stories](#places--stories) 6 · [Check a record](#check-a-record) 10 · [Under the hood](#under-the-hood) 3
 
-**[Watch it learn](#watch-it-learn)** · 8 apps · **[Play & tinker](#play--tinker)** · 6 apps · **[Places & stories](#places--stories)** · 6 apps · **[Check a record](#check-a-record)** · 10 apps · **[Under the hood](#under-the-hood)** · 3 apps
+**The rest** — [What I do](#what-i-do) · [How I work with a team](#how-i-work-with-a-team) · [Selected results](#selected-results) · [Skills](#skills) · [Open to](#open-to)
 
 ## Watch it learn
 

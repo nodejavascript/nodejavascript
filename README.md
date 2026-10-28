@@ -12,9 +12,8 @@ Hamilton, Ontario, Canada
 
 Thirty-two of them are pages you can open right now, plus one server you can read, all from [nodejavascript.com](https://nodejavascript.com/): **0 accounts, 0 prices**, and the cookie question is the only thing on the site that asks you anything. Every picture below is the deployed page itself, captured from the live host — click one and you are there.
 
-**The apps** — [Watch it learn](#watch-it-learn) 8 · [Play & tinker](#play--tinker) 6 · [Places & stories](#places--stories) 6 · [Check a record](#check-a-record) 10 · [Under the hood](#under-the-hood) 3
+**The apps** — [Watch it learn](#watch-it-learn) 8 · [Play & tinker](#play--tinker) 6 · [Places & stories](#places--stories) 6 · [Check a record](#check-a-record) 10 · [Under the hood](#under-the-hood) 3 · [Skills](#skills)
 
-**The rest** — [What I do](#what-i-do) · [How I work with a team](#how-i-work-with-a-team) · [Selected results](#selected-results) · [Skills](#skills) · [Open to](#open-to)
 
 ## Watch it learn
 
@@ -70,36 +69,9 @@ Thirty-two of them are pages you can open right now, plus one server you can rea
 | <a href="https://domainnamesale.nodejavascript.com/"><img src="shots/domainnamesale.nodejavascript.com.jpg" width="380" alt="Domain Name Sale — screenshot of the live page"></a><br>**[Domain Name Sale](https://domainnamesale.nodejavascript.com/)**<br>List a domain you own for sale — prove it with a DNS record, get approved, and take private offers.<br><sub>TypeScript · Next.js · React · PostgreSQL</sub> | <a href="https://fm-radio.nodejavascript.com/"><img src="shots/fm-radio.nodejavascript.com.jpg" width="380" alt="FM radio — screenshot of the live page"></a><br>**[FM radio](https://fm-radio.nodejavascript.com/)**<br>Tune a USB FM radio from a browser page — the scan only calls a channel a station when the 19 kHz pilot is really there, so its list stays short.<br><sub>Python · standard-library HTTP server · Canvas charts · Docker · No runtime dependencies</sub> |
 | **[MQTT broker](https://github.com/nodejavascript/mqtt-broker-aedes)**<br>A self-hosted MQTT broker with persistence and auth — TypeScript, Docker-ready, open source.<br><sub>TypeScript · Aedes · LevelDB · Docker</sub> |  |
 
-## What I do
-
-**Agentic AI, in production.** I write Model Context Protocol servers — stdio and streamable HTTP — that connect models to real tools and real data: Google Workspace, Cloudflare, GitHub and GitLab CI, databases, payments, fax, legal research. They run under a Visual Studio Code agent workspace of custom agent modes and skills, with an automation agent that has host-filesystem access, persistent browser control, local model inference and vector memory in Qdrant. On top of that: retrieval and embeddings, document and optical-character-recognition pipelines, grounded answers with citations, real-time voice pipelines, tool calling, prompt-injection defence, and consent-gated verification that fails closed.
-
-**Full-stack at scale.** Principal engineer and architect: in a platform's TypeScript gateway I wrote about 3,300 of its 3,385 commits and built the clustered real-time engine inside it. Before that, three highly available API gateways carrying ten million records a month, and the Illinois State Board of Education platform — TypeScript, GraphQL and React over MongoDB, moving children's records between schools under zero-trust security. React and Next.js at the front, PostgreSQL, MongoDB, Redis and SQL Server behind it, on Amazon Web Services, Google Cloud and Azure, with observability that means something (OpenTelemetry, Prometheus, Grafana) and zero-trust security (OAuth2, JWT, single sign-on).
-
-**Measured, not asserted.** Three kinds of test on every project — unit, end-to-end against a real browser, and against the deployed host — because a claim that is not measured is a claim. Zero runtime dependencies wherever a dependency is not earning its place, and free tiers only: self-hosted where a free tier cannot do the job.
-
-## How I work with a team
-
-- **Led and delivered with a team** at IOU Concepts — hired, then built a test-driven GraphQL API and React application with them, and documented it so a team that knew only Angular could take it over.
-- **Trained a team through its Node.js transition** at LabX Media Group, and managed overseas developers through delivery at Conversion Media Group.
-- **Ran the production estate** at Utherverse Digital — Docker, bare-metal hosts and PM2-managed services — and the observability that made it visible.
-- **Reviewed the diff, not the summary**, and left every repository readable by whoever picks it up next.
-
-## Selected results
-
-- A GraphQL and React platform built for the **Illinois State Board of Education**, used by students, parents and faculty across the state (IOU Concepts / Xocial).
-- A real-time lead generation engine producing **$3 million in monthly revenue**, and the ETL workflows behind it (Zeta Global).
-- **Three RESTful API gateways processing 10 million records a month** on a federated GraphQL platform (Conversion Media Group).
-- A patient management and laser-surgery scheduling database grown from **one clinic to about 76 clinics across four countries**, holding **600,000+ appointment records** (ICON Laser Eye Centers).
-- Node.js applications serving **more than 2 million buy-and-sell users** (LabX Media Group).
-
 ## Skills
 
 agentic AI, Model Context Protocol, retrieval and evaluation harnesses, fail-closed guardrails, embeddings, vector search, Ollama, OpenAI, TensorFlow, Amazon Comprehend, Amazon Rekognition, machine learning, TypeScript, JavaScript, Node.js, Python, Go, .NET Framework, ASP.NET, T-SQL, SQL, ColdFusion, CSS, React, Next.js, Angular, Express, Pug, GraphQL, Apollo client and server, RESTful APIs, WebSockets, three.js, WebGL, WebGPU, Web Worker, Canvas, SVG, Web Audio, IndexedDB, Rails, MQTT, Aedes, PostgreSQL, MongoDB, Microsoft SQL Server, Redis, SQLite, Qdrant, Meilisearch, Microsoft Access, LevelDB, RabbitMQ, ETL, data warehousing, database design, data modelling, indexing and execution plans, reporting, reconciliation, data quality, Amazon Web Services, Cloudflare Workers, Docker, PM2, Linux, Apache, Node.js clustering, load balancing, OpenTelemetry, Prometheus, Grafana, Datadog, CI/CD, Git, GitHub Actions, release management, performance optimisation, web hosting, application deployment, infrastructure support, OAuth2, JWT, single sign-on, zero-trust security, security models, Helmet, test-driven development, unit testing, end-to-end tests, API test automation, solution architecture, technical leadership, scrum, agile, product ownership, SR&ED management, project planning, fixed-price scoping, business analysis, documentation, UX/UI, full-stack development
-
-## Open to
-
-Senior and staff full-stack and AI engineering roles — remote, or hybrid within about an hour of Hamilton. Full-time or contract.
 
 ---
 

@@ -64,29 +64,6 @@ agentic AI, Model Context Protocol, retrieval and evaluation harnesses, fail-clo
 | <a href="https://domainnamesale.nodejavascript.com/"><img src="shots/domainnamesale.nodejavascript.com.jpg" width="380" alt="Domain Name Sale — screenshot of the live page"></a><br>**[Domain Name Sale](https://domainnamesale.nodejavascript.com/)**<br>A Next.js and PostgreSQL listing service. Ownership is proved by a DNS record the server resolves before a listing goes live, offers are private, and submissions are gated with Cloudflare Turnstile.<br><sub>TypeScript · Next.js · React · PostgreSQL</sub> | <a href="https://fm-radio.nodejavascript.com/"><img src="shots/fm-radio.nodejavascript.com.jpg" width="380" alt="FM radio — screenshot of the live page"></a><br>**[FM radio](https://fm-radio.nodejavascript.com/)**<br>A Python standard-library HTTP server driving a USB FM radio. The scan only reports a station when the 19 kHz stereo pilot is present, so adjacent-channel noise never appears as an entry; the spectrum is drawn on Canvas.<br><sub>Python · standard-library HTTP server · Canvas charts · Docker · No runtime dependencies</sub> |
 | **[MQTT broker](https://github.com/nodejavascript/mqtt-broker-aedes)**<br>An MQTT broker on Aedes with LevelDB persistence, topic authorisation and a Docker image — the one server-side piece of infrastructure here rather than a page.<br><sub>TypeScript · Aedes · LevelDB · Docker</sub> |  |
 
-## What I do
-
-**Agentic AI, in production.** I write Model Context Protocol servers — stdio and streamable HTTP — that connect models to real tools and real data: Google Workspace, Cloudflare, GitHub and GitLab, databases, payments, fax, legal research. They run under a Visual Studio Code agent workspace of custom agent modes and skills, with an automation agent that has host-filesystem access, persistent browser control, local model inference and vector memory in Qdrant. On top of that: retrieval and embeddings, document and optical-character-recognition pipelines, grounded answers with citations, real-time voice pipelines, tool calling, prompt-injection defence, and consent-gated verification that fails closed.
-
-**Full-stack at scale.** Principal engineer and architect: in a platform's TypeScript gateway I wrote about 3,300 of its 3,385 commits and built the clustered real-time engine inside it. Before that, three highly available API gateways carrying ten million records a month, and the Illinois State Board of Education platform — TypeScript, GraphQL and React over MongoDB, moving children's records between schools under zero-trust security. React and Next.js at the front, PostgreSQL, MongoDB, Redis and SQL Server behind it, on Amazon Web Services, Google Cloud and Azure, with observability that means something (OpenTelemetry, Prometheus, Grafana) and zero-trust security (OAuth2, JWT, single sign-on).
-
-**Measured, not asserted.** Three kinds of test on every project — unit, end-to-end against a real browser, and against the deployed host — because a claim that is not measured is a claim. Zero runtime dependencies wherever a dependency is not earning its place, and free tiers only: self-hosted where a free tier cannot do the job.
-
-## Selected results
-
-- A GraphQL and React platform built for the **Illinois State Board of Education**, used by students, parents and faculty across the state (IOU Concepts / Xocial).
-- A real-time lead generation engine producing **$3 million in monthly revenue**, and the ETL workflows behind it (Zeta Global).
-- **Three RESTful API gateways processing 10 million records a month** on a federated GraphQL platform (Conversion Media Group).
-- A patient management and laser-surgery scheduling database grown from **one clinic to about 76 clinics across four countries**, holding **600,000+ appointment records** (ICON Laser Eye Centers).
-- Node.js applications serving **more than 2 million buy-and-sell users** (LabX Media Group).
-
-## How I work with a team
-
-- **Led and delivered with a team** at IOU Concepts — hired, then built a test-driven GraphQL API and React application with them, and documented it so a team that knew only Angular could take it over.
-- **Trained a team through its Node.js transition** at LabX Media Group, and managed overseas developers through delivery at Conversion Media Group.
-- **Ran the production estate** at Utherverse Digital — Docker, bare-metal hosts and PM2-managed services — and the observability that made it visible.
-- **Reviewed the diff, not the summary**, and left every repository readable by whoever picks it up next.
-
 ---
 
 <sub>Everything above is live at [nodejavascript.com](https://nodejavascript.com/) and the source is in [the public repositories](https://github.com/nodejavascript?tab=repositories).</sub>

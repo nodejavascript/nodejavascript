@@ -1,14 +1,14 @@
 <a href="https://nodejavascript.com/"><img src="shots/banner-2026-10-28.jpg" width="100%" alt="nodejavascript.com — the web should work without a toll booth"></a>
 
-[georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [nodejavascript.com](https://nodejavascript.com) · [datavisionstudios.com](https://datavisionstudios.com)
-
-## Skills
-
-agentic AI, Model Context Protocol, retrieval and evaluation harnesses, fail-closed guardrails, embeddings, vector search, Ollama, OpenAI, TensorFlow, Amazon Comprehend, Amazon Rekognition, machine learning, TypeScript, JavaScript, Node.js, Python, Go, .NET Framework, ASP.NET, T-SQL, SQL, ColdFusion, CSS, React, Next.js, Angular, Express, Pug, GraphQL, Apollo client and server, RESTful APIs, WebSockets, three.js, WebGL, WebGPU, Web Worker, Canvas, SVG, Web Audio, IndexedDB, Rails, MQTT, Aedes, PostgreSQL, MongoDB, Microsoft SQL Server, Redis, SQLite, Qdrant, Meilisearch, Microsoft Access, LevelDB, RabbitMQ, ETL, data warehousing, database design, data modelling, indexing and execution plans, reporting, reconciliation, data quality, Amazon Web Services, Cloudflare Workers, Docker, PM2, Linux, Apache, Node.js clustering, load balancing, OpenTelemetry, Prometheus, Grafana, Datadog, CI/CD, Git, GitHub Actions, release management, performance optimisation, web hosting, application deployment, infrastructure support, OAuth2, JWT, single sign-on, zero-trust security, security models, Helmet, test-driven development, unit testing, end-to-end tests, API test automation, solution architecture, technical leadership, scrum, agile, product ownership, SR&ED management, project planning, fixed-price scoping, business analysis, documentation, UX/UI, full-stack development
+[georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [nodejavascript.com](https://nodejavascript.com)
 
 ## Open to
 
 Senior and staff full-stack and AI engineering roles — remote, or hybrid in southern Ontario. Full-time or contract.
+
+## Skills
+
+agentic AI, Model Context Protocol, retrieval and evaluation harnesses, fail-closed guardrails, embeddings, vector search, Ollama, OpenAI, TensorFlow, Amazon Comprehend, Amazon Rekognition, machine learning, TypeScript, JavaScript, Node.js, Python, Go, .NET Framework, ASP.NET, T-SQL, SQL, ColdFusion, CSS, React, Next.js, Angular, Express, Pug, GraphQL, Apollo client and server, RESTful APIs, WebSockets, three.js, WebGL, WebGPU, Web Worker, Canvas, SVG, Web Audio, IndexedDB, Rails, MQTT, Aedes, PostgreSQL, MongoDB, Microsoft SQL Server, Redis, SQLite, Qdrant, Meilisearch, Microsoft Access, LevelDB, RabbitMQ, ETL, data warehousing, database design, data modelling, indexing and execution plans, reporting, reconciliation, data quality, Amazon Web Services, Cloudflare Workers, Docker, PM2, Linux, Apache, Node.js clustering, load balancing, OpenTelemetry, Prometheus, Grafana, Datadog, CI/CD, Git, GitHub Actions, release management, performance optimisation, web hosting, application deployment, infrastructure support, OAuth2, JWT, single sign-on, zero-trust security, security models, Helmet, test-driven development, unit testing, end-to-end tests, API test automation, solution architecture, technical leadership, scrum, agile, product ownership, SR&ED management, project planning, fixed-price scoping, business analysis, documentation, UX/UI, full-stack development
 
 ## Watch it learn
 

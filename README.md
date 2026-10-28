@@ -1,7 +1,5 @@
 <a href="https://nodejavascript.com/"><img src="shots/banner.jpg" width="100%" alt="nodejavascript.com — the web should work without a toll booth"></a>
 
-**Principal Software Engineer** — platform and forward-deployed solutions · TypeScript, Node.js, React, Next.js · agentic artificial intelligence  
-**25 years** building web and database systems; the last ten in TypeScript, React, Node.js and applied AI  
 Hamilton, Ontario, Canada
 
 [georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [nodejavascript.com](https://nodejavascript.com) · [datavisionstudios.com](https://datavisionstudios.com)
@@ -95,9 +93,9 @@ You should not have to take a résumé's word for anything. Where an app cannot 
 - A patient management and laser-surgery scheduling database grown from **one clinic to about 76 clinics across four countries**, holding **600,000+ appointment records** (ICON Laser Eye Centers).
 - Node.js applications serving **more than 2 million buy-and-sell users** (LabX Media Group).
 
-## Stack
+## Skills
 
-TypeScript · Node.js · React · Next.js · Go · GraphQL · REST · WebSockets · Express · PostgreSQL · MongoDB · Redis · MySQL · Microsoft SQL Server · Qdrant · Meilisearch · Amazon Web Services · Google Cloud · Azure · Docker · Cloudflare · OpenTelemetry · Prometheus · Grafana
+agentic AI, Model Context Protocol, retrieval and evaluation harnesses, fail-closed guardrails, embeddings, vector search, Ollama, OpenAI, TensorFlow, Amazon Comprehend, Amazon Rekognition, machine learning, TypeScript, JavaScript, Node.js, Python, Go, .NET Framework, ASP.NET, T-SQL, SQL, ColdFusion, CSS, React, Next.js, Angular, Express, Pug, GraphQL, Apollo client and server, RESTful APIs, WebSockets, three.js, WebGL, WebGPU, Web Worker, Canvas, SVG, Web Audio, IndexedDB, Rails, MQTT, Aedes, PostgreSQL, MongoDB, Microsoft SQL Server, Redis, SQLite, Qdrant, Meilisearch, Microsoft Access, LevelDB, RabbitMQ, ETL, data warehousing, database design, data modelling, indexing and execution plans, reporting, reconciliation, data quality, Amazon Web Services, Cloudflare Workers, Docker, PM2, Linux, Apache, Node.js clustering, load balancing, OpenTelemetry, Prometheus, Grafana, Datadog, CI/CD, Git, GitHub Actions, release management, performance optimisation, web hosting, application deployment, infrastructure support, OAuth2, JWT, single sign-on, zero-trust security, security models, Helmet, test-driven development, unit testing, end-to-end tests, API test automation, solution architecture, technical leadership, scrum, agile, product ownership, SR&ED management, project planning, fixed-price scoping, business analysis, documentation, UX/UI, full-stack development
 
 ## Open to
 

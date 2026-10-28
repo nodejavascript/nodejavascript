@@ -1,4 +1,4 @@
-<a href="https://nodejavascript.com/"><img src="shots/banner-2026-10-28.jpg" width="100%" alt="nodejavascript.com — the web should work without a toll booth"></a>
+<a href="https://nodejavascript.com/"><img src="shots/banner-2026-10-28.jpg" width="100%" alt="nodejavascript.com — a working portfolio of 33 deployed applications"></a>
 
 [georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [nodejavascript.com](https://nodejavascript.com)
 

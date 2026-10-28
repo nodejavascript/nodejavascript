@@ -14,7 +14,7 @@ Thirty-two of them are pages you can open right now, plus one server you can rea
 
 **The apps** — [Watch it learn](#watch-it-learn) 8 · [Play & tinker](#play--tinker) 6 · [Places & stories](#places--stories) 6 · [Check a record](#check-a-record) 10 · [Under the hood](#under-the-hood) 3
 
-**What I can do** — [What I do](#what-i-do) · [Selected results](#selected-results) · [How I work with a team](#how-i-work-with-a-team) · [Skills](#skills)
+**What I can do** — [What I do](#what-i-do) · [Selected results](#selected-results) · [How I work with a team](#how-i-work-with-a-team) · [Skills](#skills) · [Open to](#open-to)
 
 
 ## Watch it learn
@@ -97,6 +97,10 @@ Thirty-two of them are pages you can open right now, plus one server you can rea
 ## Skills
 
 agentic AI, Model Context Protocol, retrieval and evaluation harnesses, fail-closed guardrails, embeddings, vector search, Ollama, OpenAI, TensorFlow, Amazon Comprehend, Amazon Rekognition, machine learning, TypeScript, JavaScript, Node.js, Python, Go, .NET Framework, ASP.NET, T-SQL, SQL, ColdFusion, CSS, React, Next.js, Angular, Express, Pug, GraphQL, Apollo client and server, RESTful APIs, WebSockets, three.js, WebGL, WebGPU, Web Worker, Canvas, SVG, Web Audio, IndexedDB, Rails, MQTT, Aedes, PostgreSQL, MongoDB, Microsoft SQL Server, Redis, SQLite, Qdrant, Meilisearch, Microsoft Access, LevelDB, RabbitMQ, ETL, data warehousing, database design, data modelling, indexing and execution plans, reporting, reconciliation, data quality, Amazon Web Services, Cloudflare Workers, Docker, PM2, Linux, Apache, Node.js clustering, load balancing, OpenTelemetry, Prometheus, Grafana, Datadog, CI/CD, Git, GitHub Actions, release management, performance optimisation, web hosting, application deployment, infrastructure support, OAuth2, JWT, single sign-on, zero-trust security, security models, Helmet, test-driven development, unit testing, end-to-end tests, API test automation, solution architecture, technical leadership, scrum, agile, product ownership, SR&ED management, project planning, fixed-price scoping, business analysis, documentation, UX/UI, full-stack development
+
+## Open to
+
+Senior and staff full-stack and AI engineering roles — remote, or hybrid within about an hour of Hamilton. Full-time or contract.
 
 ---
 

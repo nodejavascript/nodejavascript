@@ -1,10 +1,6 @@
 <a href="https://nodejavascript.com/"><img src="shots/banner.jpg" width="100%" alt="nodejavascript.com — the web should work without a toll booth"></a>
 
-Hamilton, Ontario, Canada
-
 [georgefielder@gmail.com](mailto:georgefielder@gmail.com) · [LinkedIn](https://linkedin.com/in/georgefielder) · [nodejavascript.com](https://nodejavascript.com) · [datavisionstudios.com](https://datavisionstudios.com)
-
-**Available now** — remote from Ontario, Canada (Eastern time), or hybrid within about an hour of Hamilton.
 
 ---
 
@@ -100,7 +96,7 @@ agentic AI, Model Context Protocol, retrieval and evaluation harnesses, fail-clo
 
 ## Open to
 
-Senior and staff full-stack and AI engineering roles — remote, or hybrid within about an hour of Hamilton. Full-time or contract.
+Senior and staff full-stack and AI engineering roles — remote, or hybrid in southern Ontario. Full-time or contract.
 
 ---
 
